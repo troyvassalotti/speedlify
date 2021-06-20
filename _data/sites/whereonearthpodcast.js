@@ -5,8 +5,6 @@ module.exports = {
         frequency: 60 * 23, // (in minutes), 23 hours
     },
     urls: [
-        "https://whereonearthpodcast.com/",
-        "https://whereonearthpodcast.com/blog/",
-        "https://whereonearthpodcast.com/listen-to-our-first-episode/"
+        "https://whereonearthpodcast.com/"
     ]
 };

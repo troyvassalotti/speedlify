@@ -6,7 +6,6 @@ module.exports = {
     },
     urls: [
         "https://express-cats-app.herokuapp.com/",
-        "https://express-cats-app.herokuapp.com/about",
         "https://express-cats-app.herokuapp.com/cats/sophie",
         "https://express-cats-app.herokuapp.com/cats/remi"
     ]

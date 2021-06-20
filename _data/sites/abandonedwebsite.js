@@ -9,9 +9,6 @@ module.exports = {
         "https://abandoned.website/services/",
         "https://abandoned.website/leadership/",
         "https://abandoned.website/news/",
-        "https://abandoned.website/news/closing-up-shop/",
-        "https://abandoned.website/news/our-brand-new-design-system/",
-        "https://abandoned.website/news/hacker-news/",
         "https://abandoned.website/image-credits/"
     ]
 };

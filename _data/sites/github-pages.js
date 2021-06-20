@@ -6,8 +6,6 @@ module.exports = {
     },
     urls: [
         "https://troyvassalotti.github.io/plvylist/",
-        "https://troyvassalotti.github.io/moonstone/",
-        "https://troyvassalotti.github.io/moonstone/story.html",
-        "https://troyvassalotti.github.io/moonstone/question.html"
+        "https://troyvassalotti.github.io/moonstone/"
     ]
 };
