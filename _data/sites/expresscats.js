@@ -1,6 +1,6 @@
 module.exports = {
     name: "Express Cats", // optional, falls back to object key
-    description: "Cats Online",
+    description: "Cats online",
     options: {
         frequency: 60 * 23, // (in minutes), 23 hours
     },

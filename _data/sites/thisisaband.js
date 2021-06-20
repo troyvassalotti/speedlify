@@ -7,6 +7,6 @@ module.exports = {
     urls: [
         "https://www.thisisa.band/",
         "https://www.thisisa.band/info/",
-        "https://www.thisisa.band/blog/the-dirty-nil"
+        "https://www.thisisa.band/blog/the-dirty-nil/"
     ]
 };
