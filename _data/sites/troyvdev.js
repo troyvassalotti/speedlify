@@ -12,7 +12,6 @@ module.exports = {
         "https://www.troyv.dev/about/resume/",
         //some projects
         "https://www.troyv.dev/projects/front-royal/",
-        "https://www.troyv.dev/projects/this-is-a-band/",
         // some posts
         "https://www.troyv.dev/posts/cool-template-features-with-eleventy/",
         // "https://www.troyv.dev/posts/express-cats/"

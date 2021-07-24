@@ -1,5 +1,5 @@
 module.exports = {
-    name: "Where on Earth Podcast", // optional, falls back to object key
+    name: "where-on-earth", // optional, falls back to object key
     description: "Where on Earth Podcast",
     skip: true,
     options: {

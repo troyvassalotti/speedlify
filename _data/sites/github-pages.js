@@ -1,6 +1,6 @@
 module.exports = {
-    name: "GitHub Pages", // optional, falls back to object key
-    description: "GitHub Pages",
+    name: "my-github-pages", // optional, falls back to object key
+    description: "My GitHub Pages",
     options: {
         frequency: 60 * 23, // (in minutes), 23 hours
     },
