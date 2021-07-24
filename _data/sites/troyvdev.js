@@ -13,7 +13,7 @@ module.exports = {
         //some projects
         "https://www.troyv.dev/projects/front-royal/",
         // some posts
-        "https://www.troyv.dev/posts/cool-template-features-with-eleventy/",
+        // "https://www.troyv.dev/posts/cool-template-features-with-eleventy/",
         // "https://www.troyv.dev/posts/express-cats/"
     ]
 };
