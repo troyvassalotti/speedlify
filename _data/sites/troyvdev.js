@@ -6,7 +6,7 @@ module.exports = {
     },
     urls: [
         "https://www.troyv.dev/",
-        "https://www.troyv.dev/posts/",
+        // "https://www.troyv.dev/posts/",
         "https://www.troyv.dev/projects/",
         "https://www.troyv.dev/music/",
         "https://www.troyv.dev/about/resume/",
