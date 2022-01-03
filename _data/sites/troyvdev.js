@@ -9,7 +9,7 @@ module.exports = {
         "https://www.troyv.dev/posts/",
         "https://www.troyv.dev/work/",
         "https://www.troyv.dev/music/",
-        "https://www.troyv.dev/about/resume/",
+        "https://www.troyv.dev/about/",
         //some projects
         "https://www.troyv.dev/work/front-royal/",
         // some posts
