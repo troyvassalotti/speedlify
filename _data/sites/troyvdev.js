@@ -13,6 +13,8 @@ module.exports = {
         //some projects
         "https://www.troyv.dev/work/front-royal/",
         // some posts
-        "https://www.troyv.dev/posts/express-cats/"
+        "https://www.troyv.dev/posts/express-cats/",
+        "https://www.troyv.dev/posts/single-file-components-in-nunjucks/",
+        "https://www.troyv.dev/posts/2020-migraine-recap/"
     ]
 };
